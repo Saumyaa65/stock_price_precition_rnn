@@ -4,7 +4,7 @@ This project implements a **Recurrent Neural Network (RNN)**, specifically using
 
 ## Overview
 
-The goal is to predict the 'Open' price of a stock (likely Google stock, based on the plot title in the code) using its past performance. The model processes sequences of historical stock prices to understand trends and make informed predictions, illustrating how LSTMs are particularly well-suited for sequential data.
+The goal is to predict the 'Open' price of a stock using its past performance. The model processes sequences of historical stock prices to understand trends and make informed predictions, illustrating how LSTMs are particularly well-suited for sequential data.
 
 ## Features
 
